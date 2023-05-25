@@ -2,6 +2,14 @@
 
 GitHub
 
+git init . To init the repo
+
+git add .
+
+git commit -m "commit message"
+
+git push
+
 # 1 Basics
       
 # 2 Angular
